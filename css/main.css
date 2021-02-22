@@ -1,0 +1,55 @@
+.carousel-caption{
+  position: absolute;
+  right: 15%;
+  bottom: 20px;
+  left: 15%;
+  z-index: 10;
+margin-bottom: 30vw;
+  color: rgb(255, 115, 0);
+  text-align: center;
+}
+.carousel-caption2{
+  position: absolute;
+  right: 15%;
+  bottom: 20px;
+  left: 15%;
+  z-index: 10;
+margin-bottom: 30vw;
+  color: rgb(145, 255, 0);
+  text-align: center;
+}
+.carousel-caption3{
+  position: absolute;
+  right: 15%;
+  bottom: 20px;
+  left: 15%;
+  z-index: 10;
+margin-bottom: 30vw;
+  color: rgb(107, 55, 250);
+  text-align: center;
+}
+.bg-light {
+  background-color: #a786ad !important;
+}
+.container1{
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 75px;
+  color: rgb(255, 0, 170);
+}
+#about{
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+#divider {
+  background: url(../bike/thumb-1920-449742.jpg);
+  min-height: 500px; 
+  /* 沒內文時可以看到的最小高度 */
+
+  background-attachment: fixed; /* 固定圖像 */
+  background-position: center center; /* 圖像置中 */
+  background-size: cover;
+}
